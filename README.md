@@ -31,14 +31,16 @@ Within this project, I would like to explore the following:
 ### 3.1 Views distribution per channel
 
 With the video statistics for all channel, now we can see how the views are distributed per channel. Some channels might have a lot of views on one of their videos and the rest do not receive many views. Other channels might have more evenly distribution views per video. It can be observed thatTechWorld with Nana, codebasics have quite large variance in their views, suggesting that they have a few viral videos. Alex The Analyst, Thu Vu data analytics have less views overall but the views are more consistent across videos. 
-![image](https://github.com/user-attachments/assets/8249ae06-3194-49be-b38f-2f94eced6323)
+![image](https://github.com/user-attachments/assets/7a66c6bf-3f57-4e9f-a1f5-2608e7a1523c)
+
 
 #### 3.2 Does the number of likes and comments matter for a video to get more views?
 
 After correcting for the absolute number of views, it turns out that the correlation is much less clear. The comment-view relationship seems to completely disappear: a lot of videos have millions of views and very few comments, while some vides have very few views have better interaction. However, it is understandable that comments take more effort than views and likes, and normally comments would die off when the video gets older.
 
 As for like-view relatioship, we can still see some positive correlation between views and like ratio (though very subtle), which means that the more views a video has, the more people would hit the like button! This seems to support the idea of social proof, which means that people tend to like better the products that are already liked by many other people.
-![image](https://github.com/user-attachments/assets/bd2f7beb-1fa7-43c8-b740-397fa50e3d00)
+![image](https://github.com/user-attachments/assets/d91da362-ad6a-4fb0-83b0-985dbc383385)
+
 ![image](https://github.com/user-attachments/assets/fa3a00cf-e29f-45b3-bd89-9a4c1bffcc1f)
 #### 3.3 Wordcloud for words in title/comment
 
