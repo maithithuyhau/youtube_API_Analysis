@@ -57,7 +57,8 @@ You can see that next to the obvious words such as "video", "data", the most fre
 
 It's interesting to see that more videos are uploaded on Tuesday and Saturday. Fewer videos are uploaded during the weekend. This could be because of the nature of the niche that is more geared towards tutorials and heavy materials, which is not suitable for weekends' consumption. But it could also just means that most creators work on their videos during the weekend or during the week and upload them beginning of the week or Saturday.
 
-![image](https://github.com/user-attachments/assets/1a0f0904-4334-4b9c-83f2-fba5faf9e57b)
+![image](https://github.com/user-attachments/assets/45d8dbb9-ab37-4c01-9f1c-63d3e32f3501)
+
 -------------------------------------------------------------------------------
 ### 4. Conclusions
 In this Project, I have explored the video data of the five most popular data science/data analyst channels and discovered numerous interesting findings for anyone beginning a YouTube channel in data science or another topic:
