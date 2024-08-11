@@ -41,14 +41,17 @@ After correcting for the absolute number of views, it turns out that the correla
 As for like-view relatioship, we can still see some positive correlation between views and like ratio (though very subtle), which means that the more views a video has, the more people would hit the like button! This seems to support the idea of social proof, which means that people tend to like better the products that are already liked by many other people.
 ![image](https://github.com/user-attachments/assets/d91da362-ad6a-4fb0-83b0-985dbc383385)
 
-![image](https://github.com/user-attachments/assets/fa3a00cf-e29f-45b3-bd89-9a4c1bffcc1f)
+![image](https://github.com/user-attachments/assets/96707338-44e0-4b11-8727-0cbb8494f52b)
+
 #### 3.3 Wordcloud for words in title/comment
 
 It can be seen that most common words are Data, Python, Tutorial, Science,  Projects, Analysis, Programming, Learning, which is very expected.
-![image](https://github.com/user-attachments/assets/e19c2203-68c7-480f-b272-485ae444b8a9)
+![image](https://github.com/user-attachments/assets/5f251a4d-a602-4199-bdb2-bee4f5af5571)
+
 
 You can see that next to the obvious words such as "video", "data", the most frequent words are quite positive, such as "thank", "great", "learning", "well", "Excellent". A lot of comments also request something with the word "please".
-![image](https://github.com/user-attachments/assets/cc1de68c-de1c-4ccc-a97d-7eac7e98bf13)
+![image](https://github.com/user-attachments/assets/eda42e0d-f109-47fd-8073-1ef2da9ca38b)
+
 
 #### 3.4 Which day in the week are most videos uploaded?
 
